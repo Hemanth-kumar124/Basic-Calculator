@@ -28,4 +28,4 @@ A simple yet powerful **calculator** built with HTML, CSS, and JavaScript.
 To use it locally:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/JoshnaJosh1234/Basic-Calculator.git
+   git clone https://github.com/Hemanth-kumar124/Basic-Calculator.git
